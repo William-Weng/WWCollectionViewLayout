@@ -45,7 +45,7 @@ final class ViewController: UIViewController {
         updateLayout(layout)
     }
     
-    @IBAction func LeftAlignLayout(_ sender: UIBarButtonItem) {
+    @IBAction func leftAlignLayout(_ sender: UIBarButtonItem) {
         
         let layout = WWCollectionViewLayout.LeftAlign.layout()
         layout.estimatedItemSize = CGSize(width: 100, height: 100)

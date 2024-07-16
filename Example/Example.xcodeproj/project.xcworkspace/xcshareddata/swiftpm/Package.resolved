@@ -1,14 +1,15 @@
 {
+  "originHash" : "aee27461eab70b9ddd9d5ac3bc854acf0a237f7db7b743104fda670767ba28e0",
   "pins" : [
     {
       "identity" : "wwcollectionviewlayout",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/William-Weng/WWCollectionViewLayout",
       "state" : {
-        "branch" : "main",
-        "revision" : "512831d9cf68593ad5f14a8318e6ed43febf085d"
+        "revision" : "c112eeb26415400d5f59d5a0f7dbd26a9e0f6376",
+        "version" : "1.0.0"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
